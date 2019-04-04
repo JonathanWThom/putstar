@@ -1,6 +1,6 @@
 # Putstar
 
-Add dividers about your `puts` statements to help them stand out amoung the logs. Save yourself literally seconds of work!
+Add dividers about your `puts` statements to help them stand out among the logs. Save yourself literally seconds of work!
 
 ## Installation
 
