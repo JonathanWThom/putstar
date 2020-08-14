@@ -3,7 +3,6 @@ RSpec.describe Putstar do
     expect(Putstar::VERSION).not_to be nil
   end
 
-
   it "prints a line of asterisks above and below the object" do
     output = File.read("./spec/fixtures/no_divider.txt")
     expect do
